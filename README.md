@@ -1,2 +1,2 @@
 # mini_blog_project
- Blog project focused on creating posts (anyone), having an administrator view to approve or reject each post before publishing it, and visualizing it in the main page,
+ Blog project focused on creating posts (anyone), having an administrator view to approve or reject each post before publishing it, and visualizing it in the main page. The project was made using HTML5, CSS, PHP, Js, MySQL. It was developed using Xampp (ver. 8.1.10). Currently there are no questions, but the system overall works. To accelerate the process in frontend design, it was used a template with the corresponding credits to the designer and it was modified to adjust it to the requirements.
